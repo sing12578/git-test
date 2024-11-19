@@ -52,12 +52,3 @@ body {
     text-align: center;
     color: var(--Slate-500);
 }
-
-/* mobile */
-@media (max-width: 375px) {
-    body {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-    }
-}
